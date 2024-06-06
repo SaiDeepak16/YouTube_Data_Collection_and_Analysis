@@ -95,8 +95,7 @@ pip install google-api-python-client pandas numpy matplotlib seaborn scipy
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/youtube-trending-analysis.git
-   cd youtube-trending-analysis
+   git clone https://github.com/SaiDeepak16/YouTube_Data_Collection_and_Analysis.git
    ```
 
 2. **Set Up API Key**:
